@@ -1,0 +1,20 @@
+{
+  "name": "gulpPlugin",
+  "version": "0.0.0",
+  "description": "gulpPlugin",
+  "main": "app.js",
+  "author": {
+    "name": "cambasa",
+    "email": ""
+  },
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "concat": "^1.0.0",
+    "gulp": "^3.8.11",
+    "gulp-util": "^3.0.3",
+    "q": "^1.1.2",
+    "through": "^2.3.6",
+    "through2": "^0.6.3",
+    "trumpet": "^1.7.0"
+  }
+}
